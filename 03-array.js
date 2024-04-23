@@ -28,3 +28,4 @@ console.log(fruit)
 
  fruit.splice(0,2) //(시작점, 개수)시작점에서 몇개를 제거할지?
  console.log(fruit)
+ 
